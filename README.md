@@ -1,3 +1,3 @@
 # Lab9
-Inheritance,
+Inheritance and
 Abstract Classes
